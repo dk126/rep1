@@ -133,3 +133,4 @@ $\backslash addtolength \lbrace \backslash textwidth \rbrace \lbrace 3cm \rbrace
 \backslash addtolength \lbrace \backslash voffset \rbrace \lbrace -1.5cm \rbrace\\$\\
 Powyższe polecenia modyfikują domyślny układ strony, poszerzając domyślną szerokość i długość szpalty o 3cm.
 \end{document}
+tutaj wstawiam przykładowe zdanie
